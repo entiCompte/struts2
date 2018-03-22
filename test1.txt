@@ -1,2 +1,2 @@
-Bonjour Git!
-Il facilite la vie
+Bonjour Git 2!
+Il facilite la vie 2
